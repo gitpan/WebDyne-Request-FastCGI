@@ -1,0 +1,22 @@
+commit bb640a866b2a1960154d13a5531e5771225a5f62
+Author: Andrew Speer <aspeer@copper.isolutions.com.au>
+Date:   Thu Apr 8 22:09:25 2010 +0930
+
+    Tag: WebDyne-Request-FastCGI_1.013
+    
+    Cleaned up ready for CPAN release, add rudimentry module load test, update documentation
+
+commit 3c872046877882103c7e4844cb8de5b79f6755f4
+Author: Andrew Speer <aspeer@silicon.isolutions.com.au>
+Date:   Mon Aug 24 02:19:18 2009 +0930
+
+    Tag: WebDyne-Request-FastCGI_1.12
+    
+    Cleanup after initial import into Git
+
+commit 9e49a2e868c0573cae1a8947825b0c43d475a348
+Author: Andrew Speer <aspeer@silicon.isolutions.com.au>
+Date:   Sat Aug 22 15:13:06 2009 +0930
+
+    Tag: WebDyne-Request-FastCGI_1.10
+
