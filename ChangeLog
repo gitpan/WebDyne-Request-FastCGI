@@ -1,3 +1,20 @@
+commit 8ce00b3230d970ba9aed73c6fab979376a803172
+Author: Andrew Speer <andrew@webdyne.org>
+Date:   Sun Apr 11 21:36:42 2010 +0930
+
+    Tag: WebDyne-Request-FastCGI_1.017
+    
+    Cleaned up wdfastcgi binary, removed extraneous ref to File::Spec and
+    fixed incorrect comments
+
+commit d61f480661a0c3ee9ba5b302796faf9897879c90
+Author: Andrew Speer <andrew@webdyne.org>
+Date:   Sun Apr 11 21:24:57 2010 +0930
+
+    Tag: WebDyne-Request-FastCGI_1.016
+    
+    Updated to YAML 1.4
+
 commit ff337bc063a3666d39b7e934e4a3d819e5f835a2
 Author: Andrew Speer <andrew@webdyne.org>
 Date:   Sun Apr 11 16:45:22 2010 +0930
