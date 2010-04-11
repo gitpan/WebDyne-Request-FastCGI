@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                WebDyne-Request-FastCGI
-version:             1.014
+version:             1.015
 abstract:            ~
 license:             gpl
 author:              

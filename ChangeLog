@@ -1,3 +1,11 @@
+commit ff337bc063a3666d39b7e934e4a3d819e5f835a2
+Author: Andrew Speer <andrew@webdyne.org>
+Date:   Sun Apr 11 16:45:22 2010 +0930
+
+    Tag: WebDyne-Request-FastCGI_1.015
+    
+    Corrected email address
+
 commit 39c586857145395e44908a476a468d4ae5242823
 Author: Andrew Speer <andrew@webdyne.org>
 Date:   Sun Apr 11 16:23:47 2010 +0930

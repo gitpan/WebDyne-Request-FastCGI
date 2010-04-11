@@ -50,7 +50,7 @@ use WebDyne::Request::Fake;
 
 #  Version information
 #
-$VERSION='1.002';
+$VERSION='1.003';
 
 
 #  Debug load
@@ -452,7 +452,7 @@ are covered by the Perl Artistic License.
 
 =head1 Author
 
-Andrew Speer, andrew.speer@webdyne.org
+Andrew Speer, andrew@webdyne.org
 
 =head1 Bugs
 
