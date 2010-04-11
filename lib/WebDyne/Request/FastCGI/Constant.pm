@@ -1,9 +1,9 @@
 #
 #
-#  Copyright (c) 2003 Andrew W. Speer <andrew.speer@isolutions.com.au>. All rights 
+#  Copyright (C) 2006-2010 Andrew Speer <andrew@webdyne.org>. All rights 
 #  reserved.
 #
-#  This file is part of WebDyne.
+#  This file is part of WebDyne::Request::FastCGI
 #
 #  WebDyne::Session is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
@@ -20,12 +20,11 @@
 #  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 #
 #
-#  $Id: WebDyne_Request_FastCGI_Constant.pm,v 1.3 2007/10/28 15:02:23 aspeer Exp $
-
-
-#  Constants
-#
 package WebDyne::Request::FastCGI::Constant;
+
+
+#  Pragma
+#
 use strict qw(vars);
 use vars qw($VERSION @ISA %EXPORT_TAGS @EXPORT_OK @EXPORT %Constant);
 no warnings qw(uninitialized);

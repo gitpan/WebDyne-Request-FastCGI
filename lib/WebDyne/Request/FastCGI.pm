@@ -1,9 +1,9 @@
 #
 #
-#  Copyright (c) 2003 Andrew W. Speer <andrew.speer@isolutions.com.au>. All rights 
+#  Copyright (C) 2006-2010 Andrew Speer <andrew@webdyne.org>. All rights 
 #  reserved.
 #
-#  This file is part of WebDyne.
+#  This file is part of WebDyne::Request::FastCGI
 #
 #  WebDyne is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
@@ -19,8 +19,6 @@
 #  along with this program; if not, write to the Free Software
 #  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 #
-#
-#  $Id: WebDyne_Request_FastCGI.pm,v 1.4 2007/07/11 02:57:16 aspeer Exp $
 #
 package WebDyne::Request::FastCGI;
 
@@ -444,13 +442,13 @@ current documentation in PDF format available in the WebDyne source /doc directo
 
 =head1 Copyright and License
 
-WebDyne::Request::FastCGI is Copyright (C) Andrew Speer 2005-2010. WebDyne::Request::FastCGI is dual licensed. It is
-released as free software released under the Gnu Public License (GPL)[2], but is also available for commercial use under
+WebDyne::Request::FastCGI is Copyright (C) 2006-2010 Andrew Speer.  WebDyne::Request::FastCGI is dual licensed. It is
+released as free software released under the Gnu Public License (GPL), but is also available for commercial use under
 a proprietary license - please contact the author for further information.
 
-WebDyne::Request::FastCGI is written in Perl and uses modules from CPAN[3] (the Comprehensive Perl Archive Network).
+WebDyne::Request::FastCGI is written in Perl and uses modules from CPAN (the Comprehensive Perl Archive Network).
 CPAN modules are Copyright (C) the owner/author, and are available in source from CPAN directly. All CPAN modules used
-are covered by the Perl Artistic License[4]
+are covered by the Perl Artistic License.
 
 =head1 Author
 

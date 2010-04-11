@@ -1,9 +1,9 @@
 #
 #
-#  Copyright (c) 2003 Andrew W. Speer <andrew.speer@isolutions.com.au>. All rights 
+#  Copyright (C) 2006-2010 Andrew Speer <andrew@webdyne.org>. All rights 
 #  reserved.
 #
-#  This file is part of WebDyne.
+#  This file is part of WebDyne::Request::FastCGI
 #
 #  WebDyne is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
@@ -19,8 +19,6 @@
 #  along with this program; if not, write to the Free Software
 #  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 #
-#
-#  $Id: WebDyne_Request_FastCGI_Run.pm,v 1.2 2007/10/28 15:02:23 aspeer Exp $
 #
 package WebDyne::Request::FastCGI::Run;
 
