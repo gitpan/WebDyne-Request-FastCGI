@@ -1,3 +1,12 @@
+commit c0222d84a268df1e7d265ac49f892e28258f4ee5
+Author: Andrew Speer <andrew@webdyne.org>
+Date:   Mon Apr 12 12:41:29 2010 +0930
+
+    Tag: WebDyne-Request-FastCGI_1.018
+    
+    change tag used for text errors from tt=>pre to preserve cr/lf
+    clean mm_ver redundancy in Makefile.PL, edit README
+
 commit 8ce00b3230d970ba9aed73c6fab979376a803172
 Author: Andrew Speer <andrew@webdyne.org>
 Date:   Sun Apr 11 21:36:42 2010 +0930

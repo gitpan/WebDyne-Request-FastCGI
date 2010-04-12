@@ -50,7 +50,7 @@ use WebDyne::Request::Fake;
 
 #  Version information
 #
-$VERSION='1.003';
+$VERSION='1.004';
 
 
 #  Debug load
@@ -383,8 +383,8 @@ sub err_html {
 	CGI->h1($error),
 	CGI->hr(),
 	CGI->em(status_message($status)), CGI->br(), CGI->br(),
-	CGI->tt(
-	    sprintf("The requested URI '%s' generated error: $message", $r->uri)
+	CGI->pre(
+	    sprintf("The requested URI '%s' generated error:\n\n$message", $r->uri)
 	),
 	CGI->end_html()
        );
