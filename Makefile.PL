@@ -46,8 +46,8 @@ my %makefile=(
 
     PREREQ_PM					=>  do { $prereq_hr={
 
-	'WebDyne'			        =>  undef,
-	'FCGI'					=>  undef
+	'WebDyne'			        =>  0,
+	'FCGI'					=>  0
 
        }; ($ENV{'PREREQ_PM'} eq '0') ? {} : $prereq_hr },
 

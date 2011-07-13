@@ -21,4 +21,4 @@
 #
 #
 package WebDyne::Request::FastCGI::VERSION;
-$VERSION='1.018';
+$VERSION='1.019';

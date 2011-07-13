@@ -1,3 +1,11 @@
+commit 68a4d4a1b2947590756e8372013db92658c98bcd
+Author: Andrew Speer <andrew@webdyne.org>
+Date:   Wed Jul 13 17:22:03 2011 +0930
+
+    Tag: WebDyne-Request-FastCGI_1.019
+    
+    Modify Makefile PREREQ section to be more compatible with older version of CPAN
+
 commit c0222d84a268df1e7d265ac49f892e28258f4ee5
 Author: Andrew Speer <andrew@webdyne.org>
 Date:   Mon Apr 12 12:41:29 2010 +0930
