@@ -1,7 +1,6 @@
 ChangeLog
 MANIFEST
 LICENSE
-lib/WebDyne/Request/FastCGI/VERSION.pm
 lib/WebDyne/Request/FastCGI/Run.pm
 lib/WebDyne/Request/FastCGI/Static.pm
 lib/WebDyne/Request/FastCGI/Constant.pm

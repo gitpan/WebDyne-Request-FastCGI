@@ -1,3 +1,11 @@
+commit 7d0e0110438211949aace5c636a541096dd910b8
+Author: Andrew Speer <andrew@webdyne.org>
+Date:   Sat Jul 16 16:23:16 2011 +0930
+
+    Tag: WebDyne-Request-FastCGI_1.021
+    
+    Updated to new version system that syncs dist version to main module version
+
 commit 68a4d4a1b2947590756e8372013db92658c98bcd
 Author: Andrew Speer <andrew@webdyne.org>
 Date:   Wed Jul 13 17:22:03 2011 +0930
